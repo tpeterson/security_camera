@@ -1,0 +1,15 @@
+{
+  "name": "security_camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "security_camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "raspicam": "^0.2.13"
+  }
+}
